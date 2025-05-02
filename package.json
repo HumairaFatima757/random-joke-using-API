@@ -1,6 +1,6 @@
 {
   "name": "fetchapi_project",
-  "homepage": "https://HumairaFatima757/github.io/random-joke-using-API/",
+  "homepage": "https://HumairaFatima757.github.io/random-joke-using-API/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -9,8 +9,8 @@
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "predeploy" : "npm run build",
-    "deploy" :"gh-pages -d dist"
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.1.5",
